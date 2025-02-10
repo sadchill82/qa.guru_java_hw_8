@@ -1,0 +1,4 @@
+testCaseName  ,firstName ,lastName ,gender ,phoneNumber ,day ,month    ,year ,modalWindowExpected
+Full Data     ,John      ,Doe      ,Male   ,1234567890  ,01  ,January  ,2000 ,true
+Minimal Data  ,Jane      ,Smith    ,Female ,0987654321  ,02  ,February ,1995 ,true
+FirstName Only,Alex      ,         ,       ,            ,    ,         ,     ,false
